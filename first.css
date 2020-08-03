@@ -1,0 +1,35 @@
+body{
+	background-image:url("don.jpeg");
+	background-size:cover;
+	font-family:tahoma,sans_ferif;
+}
+
+.header {
+	padding-left: 33%;
+	padding-right: 33%;
+	padding-top: 2%;
+}
+
+#header1 {
+	background-color: #111111;
+	padding: 2%;
+	font-size: 40px;
+	font-weight: bold;
+	color: white;
+	
+}
+
+img {
+  position: absolute;
+  height: 18% ;
+  width:  15% ;
+  top: 72%;
+  left: 36%;
+  transform: translate(-60%,-60%) ;
+  transform:  rotate(-18deg) ;
+  border-style: solid; 
+  border-width: 15px;
+  border-color: #111111;
+  border-radius: 10px;
+} 
+

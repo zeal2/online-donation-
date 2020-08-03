@@ -1,0 +1,33 @@
+.box1{
+  position:relative;
+  background:transparent;
+  border-radius:15px;
+  padding: 20px;
+  width: 65%;
+  position: relative;
+  top: 20%;
+  left: 16%;
+background: rgba(255, 255, 255, 0.5);
+
+}
+
+button{
+    position :positive absolute;
+    border: none;
+    outline: none;
+    height: 55px;
+    width: 130px;
+    background: #2cafbe;
+    color: #fff;
+    font-size: 15px;
+    border-radius: 20px;
+    margin: 0px 6px;
+}
+
+
+body{
+background-image: url('pformbg.jpg'); 
+  background-repeat:no-repeat;
+      background-position: center;
+      background-size: cover;
+}
